@@ -6,7 +6,8 @@ email: 206736274@qq.com
 description: "Every failure is leading towards success."
 keyword: "My, My Blog, 刘义明的博客,luke的博客, benjaminliu, java, 后端, iPhone"
 url: "https://benjaminliu921.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog' gitee 使用 /benjaminLiu921
+# baseurl: "/benjaminLiu921"      # for gitee 使用 /benjaminLiu921
 github_repo: "https://github.com/BenjaminLiu921/benjaminliu921.github.io.git" # you code repository
 
 # Sidebar settings
