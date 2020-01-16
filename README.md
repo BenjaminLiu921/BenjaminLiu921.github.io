@@ -88,10 +88,8 @@ tags:
 ### 侧边栏
 
 
-<!--
 看右边:
-// ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
--->
+![](https://raw.githubusercontent.com/benjaminliu921/benjaminliu921.github.io/master/img/readme-side.jpg)
 
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
@@ -214,7 +212,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](https://benjaminliu921.github.io/2020/01/16/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 
 ### Analytics
