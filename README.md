@@ -1,6 +1,6 @@
 
 
-<!-- ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png) -->
+<!-- ![](https://raw.githubusercontent.com/benjaminliu921/benjaminliu921.github.io/master/img/readme-home.png) -->
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 
@@ -47,13 +47,13 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+title: My Blog                    # 你的博客网站标题
+SEOTitle: 刘义明的博客 | My Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: xxx     # 你的github账号
+jianshu_username: xxx  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -150,7 +150,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        href: "https://benjaminliu921.github.io/"
     },
     {
         title: "Apple",
@@ -201,7 +201,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 ```
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: xxx
 ```
 
 #### Gitalk
